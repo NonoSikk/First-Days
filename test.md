@@ -3,7 +3,7 @@
 This is just a first test. Don't pay attention.
 Hope it gonna work.
 - list
-- - with underpoints 
+  - with underpoints 
 
 ## Checkbox list test 
 - [ ] unchecked box
