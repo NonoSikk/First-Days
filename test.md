@@ -7,3 +7,8 @@ Hope it gonna work.
 - [ ] unchecked box
 - [x] checked box
  Works 🏄
+
+## Testing links within the same doc. 
+
+- Go to [This is a Test](#This-is-a-test)
+- Go to [Checkbox list test](#Checkbox-list-test) 
